@@ -1,12 +1,12 @@
 body {
-	background: blue
+	background: gray
 }
 label {
-	color:yellow;
+	color:black;
 	
 }
 input {
 	background: white;
-	color:yellow;
+	color:black;
 }
 
